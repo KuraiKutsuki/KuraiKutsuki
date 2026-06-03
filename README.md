@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C9E&center=true&vCenter=true&width=700&lines=Hey!+I'm+Asthan+%F0%9F%91%8B;IT+Student+at+Bicol+University;Project+Manager+%7C+Documentation+Specialist;Hardware+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Cisco+Networking+Aspirant+%F0%9F%8C%90;Romance+Anime+%26+Manga+Addict+%F0%9F%8C%B8;Serious+on+the+outside...+chaotic+inside+%F0%9F%98%84" alt="Typing SVG" />
+</div>
+
+<br/>
+
 # 💫 About Me:
 🔭 I'm currently working on MerkadoGo — our capstone project where I handle documentation, project management, writing Chapters 1–3, and reviewing the application against our objectives.<br>🌱 I'm currently learning — Exploring Cisco Networking certifications and looking to master a programming language. Still mapping out the path ahead!<br>👯 I'm looking to collaborate on — Networking tools and developing market/community-based applications similar to MerkadoGo.<br>🤝 I'm looking for help with — Improving my coding skills, UI/UX design, prompt engineering, and networking concepts.<br>💬 Ask me about — Smartphone specs & budget comparisons, computer hardware, phone repair/troubleshooting, anime, manga, light novels, and manhwa!<br>⚡ Fun fact — I come off as serious and shy at first, but flip the switch and I'm the most energetic person in the room — and yes, I'm absolutely hooked on romance anime and manga! 🌸
 
@@ -14,3 +20,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=calm_pink)
