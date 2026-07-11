@@ -14,18 +14,52 @@
 - ![](https://img.shields.io/badge/Fun_Fact-F75C9E?style=flat-square) I come off as serious and shy at first, but flip the switch and I'm the most energetic person in the room (and yes, I'm absolutely hooked on romance anime and manga! 🌸).
 
 ## Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tangerinnee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tan_gerineee_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asthan-patanao-437a07372) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Fancy-Heart9848) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tangerinee12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asthanpatanao29@gmail.com) 
+<p align="center">
+  <a href="https://facebook.com/tangerinnee"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/tan_gerineee_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/asthan-patanao-437a07372"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://reddit.com/user/Fancy-Heart9848"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://tiktok.com/@tangerinee12"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:asthanpatanao29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
 
 ## Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-025E8A?style=for-the-badge&logo=openapi&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/REST_API-025E8A?style=for-the-badge&logo=openapi&logoColor=white" alt="REST API" />
+</p>
+
+---
 
 ## GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=KuraiKutsuki&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KuraiKutsuki&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KuraiKutsuki&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=KuraiKutsuki&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KuraiKutsuki&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KuraiKutsuki&theme=calm_pink&hide_border=false" alt="Streak Stats" />
+</p>
+
+---
 
 ### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
 
 ### Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=calm_pink)
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=calm_pink" alt="Jokes Card" />
+</p>
