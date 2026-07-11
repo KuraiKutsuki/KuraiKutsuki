@@ -6,12 +6,28 @@
 
 ## About Me
 
-- ![](https://img.shields.io/badge/Focus-F75C9E?style=flat-square) Working on **MerkadoGo** (our capstone project) — handling project management, documentation, and reviewing the application against our objectives.
+- ![](https://img.shields.io/badge/Focus-F75C9E?style=flat-square) Working on **MerkadoGo** (our capstone project) — handling project management, documentation, and reviewing the application against our objectives — while also developing various personal projects to expand my portfolio.
 - ![](https://img.shields.io/badge/Learning-F75C9E?style=flat-square) Exploring Cisco Networking certifications and looking to master a programming language.
 - ![](https://img.shields.io/badge/Collaboration-F75C9E?style=flat-square) Looking to collaborate on networking tools and developing market/community-based applications.
 - ![](https://img.shields.io/badge/Interests-F75C9E?style=flat-square) Improving my coding skills, UI/UX design, prompt engineering, and networking concepts.
 - ![](https://img.shields.io/badge/Ask_Me-F75C9E?style=flat-square) Smartphone specs & budget comparisons, computer hardware, phone repair/troubleshooting, anime, manga, light novels, and manhwa!
 - ![](https://img.shields.io/badge/Fun_Fact-F75C9E?style=flat-square) I come off as serious and shy at first, but flip the switch and I'm the most energetic person in the room (and yes, I'm absolutely hooked on romance anime and manga! 🌸).
+
+---
+
+## Featured Project
+<p align="center">
+  <a href="https://github.com/KuraiKutsuki/BayaniLink">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=KuraiKutsuki&repo=BayaniLink&theme=calm_pink" alt="BayaniLink Card" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>🚨 BayaniLink — Ligao City Emergency Reporting System</strong><br/>
+  A full-stack, real-time emergency reporting web application for Ligao City, Albay, Philippines, built with Next.js, Tailwind CSS, Supabase, and TypeScript. It connects citizens directly to the CDRRMO and features an interactive emergency assistant chatbot powered by Gemini AI.
+</p>
+
+---
 
 ## Socials
 <p align="center">
@@ -27,15 +43,24 @@
 
 ## Tech Stack
 <p align="center">
+  <b>Languages:</b><br/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+<p align="center">
+  <b>Frontend:</b><br/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+
+<p align="center">
+  <b>Backend & Database:</b><br/>
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/REST_API-025E8A?style=for-the-badge&logo=openapi&logoColor=white" alt="REST API" />
 </p>
 
