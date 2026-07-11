@@ -6,12 +6,12 @@
 
 ## About Me
 
-- **Current Focus:** Working on **MerkadoGo** (our capstone project) — handling project management, documentation, and reviewing the application against our objectives.
-- **Learning:** Exploring Cisco Networking certifications and looking to master a programming language.
-- **Collaboration:** Looking to collaborate on networking tools and developing market/community-based applications.
-- **Interests:** Improving my coding skills, UI/UX design, prompt engineering, and networking concepts.
-- **Ask Me About:** Smartphone specs & budget comparisons, computer hardware, phone repair/troubleshooting, anime, manga, light novels, and manhwa!
-- **Fun Fact:** I come off as serious and shy at first, but flip the switch and I'm the most energetic person in the room (and yes, I'm absolutely hooked on romance anime and manga! 🌸).
+- ![](https://img.shields.io/badge/Focus-F75C9E?style=flat-square) Working on **MerkadoGo** (our capstone project) — handling project management, documentation, and reviewing the application against our objectives.
+- ![](https://img.shields.io/badge/Learning-F75C9E?style=flat-square) Exploring Cisco Networking certifications and looking to master a programming language.
+- ![](https://img.shields.io/badge/Collaboration-F75C9E?style=flat-square) Looking to collaborate on networking tools and developing market/community-based applications.
+- ![](https://img.shields.io/badge/Interests-F75C9E?style=flat-square) Improving my coding skills, UI/UX design, prompt engineering, and networking concepts.
+- ![](https://img.shields.io/badge/Ask_Me-F75C9E?style=flat-square) Smartphone specs & budget comparisons, computer hardware, phone repair/troubleshooting, anime, manga, light novels, and manhwa!
+- ![](https://img.shields.io/badge/Fun_Fact-F75C9E?style=flat-square) I come off as serious and shy at first, but flip the switch and I'm the most energetic person in the room (and yes, I'm absolutely hooked on romance anime and manga! 🌸).
 
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tangerinnee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tan_gerineee_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asthan-patanao-437a07372) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Fancy-Heart9848) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tangerinee12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asthanpatanao29@gmail.com) 
