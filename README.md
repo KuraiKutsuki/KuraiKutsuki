@@ -15,12 +15,14 @@ Right now I build for the web, but networking is where I'm headed. I'm collectin
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p align="center"><img src="assets/projects/merkadogo.svg" width="72" alt="MerkadoGo logo"></p>
       <b>MerkadoGo</b><br>
       Indoor market map and A* wayfinding for 231 stalls of the Ligao City Public Market, with multilingual search (English, Tagalog, Central Bicolano). My part: map design, data model and routing algorithm.<br>
       <i>Vite · JavaScript · SVG · Firebase</i><br>
       <a href="https://merkadogo-web.vercel.app">Live demo</a> · <a href="https://github.com/KuraiKutsuki/MerkadoGo-WebApp">Repo</a>
     </td>
     <td width="50%" valign="top">
+      <p align="center"><img src="assets/projects/bayanilink.svg" width="72" alt="BayaniLink logo"></p>
       <b>BayaniLink</b><br>
       My solo build of the community-reporting concept from my hackathon teams, extended with my own features: real-time emergency reports for Ligao City's CDRRMO, a live Leaflet map, and a Gemini-powered emergency assistant.<br>
       <i>Next.js · Supabase · TypeScript</i><br>
@@ -31,15 +33,26 @@ Right now I build for the web, but networking is where I'm headed. I'm collectin
 
 ## <img src="assets/icons/achievements.svg" width="22" alt="Achievements icon"> Certifications & Achievements
 
-- **3rd Place**, Heroes of Innovation Challenge 2026: Ibalong Festival Hackathon (Legazpi City · Aug 2026). Built **Saro**, a community incident-reporting platform with a live map and an AI chatbot, for the theme "From Epic to Impact: Innovating a Smarter City."
-- **1st Runner-Up**, Vibecoding Competition, AI4AI Fair 2026: AI for Rural Development (Polangui, Albay · June 2026). Built a community reporting website where authorities track reports on a live interactive map.
-- **TESDA Java Programming NC III**
+<table>
+  <tr>
+    <td align="center" width="88"><img src="assets/achievements/third-place.svg" width="56" alt="Medal icon"></td>
+    <td><b>3rd Place</b>, Heroes of Innovation Challenge 2026: Ibalong Festival Hackathon<br><sub>Legazpi City · Aug 2026</sub><br>Built <b>Saro</b>, a community incident-reporting platform with a live map and an AI chatbot, for the theme "From Epic to Impact: Innovating a Smarter City."</td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><img src="assets/achievements/runner-up.svg" width="56" alt="Trophy icon"></td>
+    <td><b>1st Runner-Up</b>, Vibecoding Competition, AI4AI Fair 2026: AI for Rural Development<br><sub>Polangui, Albay · June 2026</sub><br>Built a community reporting website where authorities track reports on a live interactive map.</td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><img src="assets/achievements/tesda.svg" width="56" alt="Certificate icon"></td>
+    <td><b>TESDA Java Programming NC III</b></td>
+  </tr>
+</table>
 
 ## <img src="assets/icons/stack.svg" width="22" alt="Tech stack icon"> Tech Stack
 
-**Languages**
+<p align="center"><b>Languages</b></p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96"><img src="assets/tech/typescript.svg" width="44" alt="TypeScript"><br><sub>TypeScript</sub></td>
     <td align="center" width="96"><img src="assets/tech/javascript.svg" width="44" alt="JavaScript"><br><sub>JavaScript</sub></td>
@@ -51,9 +64,9 @@ Right now I build for the web, but networking is where I'm headed. I'm collectin
   </tr>
 </table>
 
-**Frameworks**
+<p align="center"><b>Frameworks</b></p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96"><img src="assets/tech/react.svg" width="44" alt="React"><br><sub>React</sub></td>
     <td align="center" width="96"><img src="assets/tech/nextjs.svg" width="44" alt="Next.js"><br><sub>Next.js</sub></td>
@@ -63,9 +76,9 @@ Right now I build for the web, but networking is where I'm headed. I'm collectin
   </tr>
 </table>
 
-**Backend & data**
+<p align="center"><b>Backend & data</b></p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96"><img src="assets/tech/nodejs.svg" width="44" alt="Node.js"><br><sub>Node.js</sub></td>
     <td align="center" width="96"><img src="assets/tech/supabase.svg" width="44" alt="Supabase"><br><sub>Supabase</sub></td>
@@ -74,25 +87,25 @@ Right now I build for the web, but networking is where I'm headed. I'm collectin
   </tr>
 </table>
 
-**Design**
+<p align="center"><b>Design</b></p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96"><img src="assets/tech/figma.svg" width="44" alt="Figma"><br><sub>Figma</sub></td>
   </tr>
 </table>
 
-**Networking**
+<p align="center"><b>Networking</b></p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96"><img src="assets/tech/packettracer.svg" width="44" alt="Cisco Packet Tracer"><br><sub>Cisco Packet Tracer</sub></td>
   </tr>
 </table>
 
-**AI coding**
+<p align="center"><b>AI coding</b></p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96"><img src="assets/tech/claude.svg" width="44" alt="Claude Code"><br><sub>Claude Code</sub></td>
     <td align="center" width="96"><img src="assets/tech/codex.svg" width="44" alt="Codex"><br><sub>Codex</sub></td>
@@ -101,18 +114,18 @@ Right now I build for the web, but networking is where I'm headed. I'm collectin
   </tr>
 </table>
 
-**AI app builders**
+<p align="center"><b>AI app builders</b></p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96"><img src="assets/tech/lovable.svg" width="44" alt="Lovable"><br><sub>Lovable</sub></td>
     <td align="center" width="96"><img src="assets/tech/base44.svg" width="44" alt="Base44"><br><sub>Base44</sub></td>
   </tr>
 </table>
 
-**Tools**
+<p align="center"><b>Tools</b></p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96"><img src="assets/tech/git.svg" width="44" alt="Git"><br><sub>Git</sub></td>
     <td align="center" width="96"><img src="assets/tech/github.svg" width="44" alt="GitHub"><br><sub>GitHub</sub></td>
@@ -124,9 +137,13 @@ Right now I build for the web, but networking is where I'm headed. I'm collectin
 
 ## <img src="assets/icons/interests.svg" width="22" alt="Interests icon"> What I'm into
 
-- Smartphone specs and budget comparisons
-- Smartphone troubleshooting
-- Anime, manga, light novels and manhwa (romance especially)
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="220"><img src="assets/interests/phones.svg" width="56" alt="Smartphone icon"><br><b>Phone specs</b><br><sub>Smartphone specs and budget comparisons</sub></td>
+    <td align="center" valign="top" width="220"><img src="assets/interests/troubleshooting.svg" width="56" alt="Wrench icon"><br><b>Troubleshooting</b><br><sub>Smartphone troubleshooting</sub></td>
+    <td align="center" valign="top" width="220"><img src="assets/interests/anime.svg" width="56" alt="Book with heart icon"><br><b>Anime & manga</b><br><sub>Anime, manga, light novels and manhwa (romance especially)</sub></td>
+  </tr>
+</table>
 
 <img src="assets/wave.svg" width="100%" alt="Animated pink wave divider">
 

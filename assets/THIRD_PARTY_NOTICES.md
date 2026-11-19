@@ -2,7 +2,7 @@
 
 ## Lucide
 
-Used: assets/icons/*.svg, from lucide-static@0.460.0. Source: https://github.com/lucide-icons/lucide
+Used: assets/icons/*.svg, assets/achievements/*.svg and assets/interests/*.svg, from lucide-static@0.460.0. Source: https://github.com/lucide-icons/lucide
 
 ISC License
 
