@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 60" width="100%" role="img" aria-label="Pink wave divider">
+  <style>
+    .w1 { animation: drift 9s linear infinite; }
+    .w2 { animation: drift 6s linear infinite; }
+    @keyframes drift {
+      from { transform: translateX(0); }
+      to { transform: translateX(-1000px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .w1, .w2 { animation: none; }
+    }
+  </style>
+  <!-- Each path is 2000px wide with a period that divides 1000px, so a -1000px shift loops seamlessly -->
+  <path class="w1" fill="#F75C9E" opacity="0.3" d="M0 30 Q250 8 500 30 T1000 30 T1500 30 T2000 30 L2000 60 L0 60 Z"/>
+  <path class="w2" fill="#F75C9E" opacity="0.55" d="M0 40 Q125 26 250 40 T500 40 T750 40 T1000 40 T1250 40 T1500 40 T1750 40 T2000 40 L2000 60 L0 60 Z"/>
+</svg>

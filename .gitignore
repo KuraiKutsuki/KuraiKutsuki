@@ -1,0 +1,5 @@
+# Local Claude Code skills (not part of the profile README)
+.claude/
+.agents/
+skills-lock.json
+.superpowers/

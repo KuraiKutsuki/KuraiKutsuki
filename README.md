@@ -1,90 +1,141 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C9E&center=true&vCenter=true&width=850&lines=%3E+Hey!+I'm+Asthan;%3E+IT+Student+at+Bicol+University;%3E+Project+Manager+%7C+Documentation+Specialist;%3E+Hardware+Enthusiast;%3E+Cisco+Networking+Aspirant;%3E+Romance+Anime+%26+Manga+Addict;%3E+Serious+on+the+outside...+chaotic+inside" alt="Typing SVG" />
-</div>
+<p align="center"><img src="assets/header.svg" width="100%" alt="Asthan Patanao, BSIT student at Bicol University"></p>
 
-<br/>
+<p align="center">BSIT student at Bicol University who builds map-based apps, works with AI every day, and creates custom workflows and automations.</p>
 
-## About Me
+## <img src="assets/icons/about.svg" width="22" alt="About icon"> About Me
 
-- ![](https://img.shields.io/badge/Focus-F75C9E?style=flat-square) Working on **MerkadoGo** (our capstone project) — handling project management, documentation, and reviewing the application against our objectives — while also developing various personal projects to expand my portfolio.
-- ![](https://img.shields.io/badge/Learning-F75C9E?style=flat-square) Exploring Cisco Networking certifications and looking to master a programming language.
-- ![](https://img.shields.io/badge/Collaboration-F75C9E?style=flat-square) Looking to collaborate on networking tools and developing market/community-based applications.
-- ![](https://img.shields.io/badge/Interests-F75C9E?style=flat-square) Improving my coding skills, UI/UX design, prompt engineering, and networking concepts.
-- ![](https://img.shields.io/badge/Ask_Me-F75C9E?style=flat-square) Smartphone specs & budget comparisons, computer hardware, phone repair/troubleshooting, anime, manga, light novels, and manhwa!
-- ![](https://img.shields.io/badge/Fun_Fact-F75C9E?style=flat-square) I come off as serious and shy at first, but flip the switch and I'm the most energetic person in the room (and yes, I'm absolutely hooked on romance anime and manga! 🌸).
+**4th-year BSIT student at Bicol University.** I lead the team behind **MerkadoGo**, our capstone: an Android and web smart market guide for the Ligao City Public Market. I designed the market's floor map in Figma, turned its 231 stalls and walkways into structured JSON data, and built the A\* routing that guides shoppers from any of the 14 entrances to the right stall. I refined that algorithm in a web prototype, MerkadoGo Web. I also handle the project's documentation and QA.
 
----
+I build a lot with AI. I create custom agentic AI workflows for different tasks, from prompt templates to full project setups, and use coding agents like Claude Code, Codex and Antigravity to finish tasks faster. I'm always trying new AI tools, and the next thing I want to explore is fully automated AI workflows.
 
-## Featured Project
+Right now I build for the web, but networking is where I'm headed. I'm collecting IT certifications and courses along the way.
+
+## <img src="assets/icons/projects.svg" width="22" alt="Projects icon"> Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>MerkadoGo</b><br>
+      Indoor market map and A* wayfinding for 231 stalls of the Ligao City Public Market, with multilingual search (English, Tagalog, Central Bicolano). My part: map design, data model and routing algorithm.<br>
+      <i>Vite · JavaScript · SVG · Firebase</i><br>
+      <a href="https://merkadogo-web.vercel.app">Live demo</a> · <a href="https://github.com/KuraiKutsuki/MerkadoGo-WebApp">Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>BayaniLink</b><br>
+      My solo build of the community-reporting concept from my hackathon teams, extended with my own features: real-time emergency reports for Ligao City's CDRRMO, a live Leaflet map, and a Gemini-powered emergency assistant.<br>
+      <i>Next.js · Supabase · TypeScript</i><br>
+      <a href="https://bayani-link.vercel.app/">Live demo</a> · <a href="https://github.com/KuraiKutsuki/BayaniLink">Repo</a>
+    </td>
+  </tr>
+</table>
+
+## <img src="assets/icons/achievements.svg" width="22" alt="Achievements icon"> Certifications & Achievements
+
+- **3rd Place**, Heroes of Innovation Challenge 2026: Ibalong Festival Hackathon (Legazpi City · Aug 2026). Built **Saro**, a community incident-reporting platform with a live map and an AI chatbot, for the theme "From Epic to Impact: Innovating a Smarter City."
+- **1st Runner-Up**, Vibecoding Competition, AI4AI Fair 2026: AI for Rural Development (Polangui, Albay · June 2026). Built a community reporting website where authorities track reports on a live interactive map.
+- **TESDA Java Programming NC III**
+
+## <img src="assets/icons/stack.svg" width="22" alt="Tech stack icon"> Tech Stack
+
+**Languages**
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="assets/tech/typescript.svg" width="44" alt="TypeScript"><br><sub>TypeScript</sub></td>
+    <td align="center" width="96"><img src="assets/tech/javascript.svg" width="44" alt="JavaScript"><br><sub>JavaScript</sub></td>
+    <td align="center" width="96"><img src="assets/tech/java.svg" width="44" alt="Java"><br><sub>Java</sub></td>
+    <td align="center" width="96"><img src="assets/tech/csharp.svg" width="44" alt="C#"><br><sub>C#</sub></td>
+    <td align="center" width="96"><img src="assets/tech/cpp.svg" width="44" alt="C++"><br><sub>C++</sub></td>
+    <td align="center" width="96"><img src="assets/tech/html.svg" width="44" alt="HTML"><br><sub>HTML</sub></td>
+    <td align="center" width="96"><img src="assets/tech/css.svg" width="44" alt="CSS"><br><sub>CSS</sub></td>
+  </tr>
+</table>
+
+**Frameworks**
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="assets/tech/react.svg" width="44" alt="React"><br><sub>React</sub></td>
+    <td align="center" width="96"><img src="assets/tech/nextjs.svg" width="44" alt="Next.js"><br><sub>Next.js</sub></td>
+    <td align="center" width="96"><img src="assets/tech/tailwind.svg" width="44" alt="Tailwind CSS"><br><sub>Tailwind CSS</sub></td>
+    <td align="center" width="96"><img src="assets/tech/vite.svg" width="44" alt="Vite"><br><sub>Vite</sub></td>
+    <td align="center" width="96"><img src="assets/tech/leaflet.svg" width="44" alt="Leaflet"><br><sub>Leaflet</sub></td>
+  </tr>
+</table>
+
+**Backend & data**
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="assets/tech/nodejs.svg" width="44" alt="Node.js"><br><sub>Node.js</sub></td>
+    <td align="center" width="96"><img src="assets/tech/supabase.svg" width="44" alt="Supabase"><br><sub>Supabase</sub></td>
+    <td align="center" width="96"><img src="assets/tech/firebase.svg" width="44" alt="Firebase"><br><sub>Firebase</sub></td>
+    <td align="center" width="96"><img src="assets/tech/sqlite.svg" width="44" alt="SQLite"><br><sub>SQLite</sub></td>
+  </tr>
+</table>
+
+**Design**
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="assets/tech/figma.svg" width="44" alt="Figma"><br><sub>Figma</sub></td>
+  </tr>
+</table>
+
+**Networking**
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="assets/tech/packettracer.svg" width="44" alt="Cisco Packet Tracer"><br><sub>Cisco Packet Tracer</sub></td>
+  </tr>
+</table>
+
+**AI coding**
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="assets/tech/claude.svg" width="44" alt="Claude Code"><br><sub>Claude Code</sub></td>
+    <td align="center" width="96"><img src="assets/tech/codex.svg" width="44" alt="Codex"><br><sub>Codex</sub></td>
+    <td align="center" width="96"><img src="assets/tech/gemini.svg" width="44" alt="Gemini"><br><sub>Gemini</sub></td>
+    <td align="center" width="96"><img src="assets/tech/antigravity.svg" width="44" alt="Antigravity"><br><sub>Antigravity</sub></td>
+  </tr>
+</table>
+
+**AI app builders**
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="assets/tech/lovable.svg" width="44" alt="Lovable"><br><sub>Lovable</sub></td>
+    <td align="center" width="96"><img src="assets/tech/base44.svg" width="44" alt="Base44"><br><sub>Base44</sub></td>
+  </tr>
+</table>
+
+**Tools**
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="assets/tech/git.svg" width="44" alt="Git"><br><sub>Git</sub></td>
+    <td align="center" width="96"><img src="assets/tech/github.svg" width="44" alt="GitHub"><br><sub>GitHub</sub></td>
+    <td align="center" width="96"><img src="assets/tech/vscode.svg" width="44" alt="VS Code"><br><sub>VS Code</sub></td>
+    <td align="center" width="96"><img src="assets/tech/vercel.svg" width="44" alt="Vercel"><br><sub>Vercel</sub></td>
+    <td align="center" width="96"><img src="assets/tech/obsidian.svg" width="44" alt="Obsidian"><br><sub>Obsidian</sub></td>
+  </tr>
+</table>
+
+## <img src="assets/icons/interests.svg" width="22" alt="Interests icon"> What I'm into
+
+- Smartphone specs and budget comparisons
+- Smartphone troubleshooting
+- Anime, manga, light novels and manhwa (romance especially)
+
+<img src="assets/wave.svg" width="100%" alt="Animated pink wave divider">
+
+## <img src="assets/icons/contact.svg" width="22" alt="Contact icon"> Contact
+
 <p align="center">
-  <a href="https://github.com/KuraiKutsuki/BayaniLink">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=KuraiKutsuki&repo=BayaniLink&theme=calm_pink" alt="BayaniLink Card" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>🚨 BayaniLink — Ligao City Emergency Reporting System</strong><br/>
-  A full-stack, real-time emergency reporting web application for Ligao City, Albay, Philippines, built with Next.js, Tailwind CSS, Supabase, and TypeScript. It connects citizens directly to the CDRRMO and features an interactive emergency assistant chatbot powered by Gemini AI.
-</p>
-
----
-
-## Socials
-<p align="center">
-  <a href="https://facebook.com/tangerinnee"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/tan_gerineee_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/asthan-patanao-437a07372"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://reddit.com/user/Fancy-Heart9848"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit" /></a>
-  <a href="https://tiktok.com/@tangerinee12"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:asthanpatanao29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-## Tech Stack
-<p align="center">
-  <b>Languages:</b><br/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-<p align="center">
-  <b>Frontend:</b><br/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
-<p align="center">
-  <b>Backend & Database:</b><br/>
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/REST_API-025E8A?style=for-the-badge&logo=openapi&logoColor=white" alt="REST API" />
-</p>
-
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=KuraiKutsuki&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KuraiKutsuki&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KuraiKutsuki&theme=calm_pink&hide_border=false" alt="Streak Stats" />
-</p>
-
----
-
-### Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-### Random Dev Joke
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=calm_pink" alt="Jokes Card" />
+  <a href="https://linkedin.com/in/asthan-patanao-437a07372"><img src="assets/contact/linkedin.svg" height="36" alt="LinkedIn"></a>
+  <a href="https://reddit.com/user/Fancy-Heart9848"><img src="assets/contact/reddit.svg" height="36" alt="Reddit"></a>
+  <a href="mailto:asthanpatanao29@gmail.com"><img src="assets/contact/email.svg" height="36" alt="Email"></a>
+  <a href="https://facebook.com/tangerinnee"><img src="assets/contact/facebook.svg" height="36" alt="Facebook"></a>
+  <a href="https://instagram.com/tan_gerineee_"><img src="assets/contact/instagram.svg" height="36" alt="Instagram"></a>
 </p>
