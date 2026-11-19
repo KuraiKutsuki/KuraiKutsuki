@@ -10,6 +10,16 @@ I build a lot with AI. I create custom agentic AI workflows for different tasks,
 
 Right now I build for the web, but networking is where I'm headed. I'm collecting IT certifications and courses along the way.
 
+## <img src="assets/icons/contact.svg" width="22" alt="Contact icon"> Contact
+
+<p align="center">
+  <a href="https://linkedin.com/in/asthan-patanao-437a07372"><img src="assets/contact/linkedin.svg" height="36" alt="LinkedIn"></a>
+  <a href="https://reddit.com/user/Fancy-Heart9848"><img src="assets/contact/reddit.svg" height="36" alt="Reddit"></a>
+  <a href="mailto:asthanpatanao29@gmail.com"><img src="assets/contact/email.svg" height="36" alt="Email"></a>
+  <a href="https://facebook.com/tangerinnee"><img src="assets/contact/facebook.svg" height="36" alt="Facebook"></a>
+  <a href="https://instagram.com/tan_gerineee_"><img src="assets/contact/instagram.svg" height="36" alt="Instagram"></a>
+</p>
+
 ## <img src="assets/icons/projects.svg" width="22" alt="Projects icon"> Projects
 
 <table>
@@ -146,13 +156,3 @@ Right now I build for the web, but networking is where I'm headed. I'm collectin
 </table>
 
 <img src="assets/wave.svg" width="100%" alt="Animated pink wave divider">
-
-## <img src="assets/icons/contact.svg" width="22" alt="Contact icon"> Contact
-
-<p align="center">
-  <a href="https://linkedin.com/in/asthan-patanao-437a07372"><img src="assets/contact/linkedin.svg" height="36" alt="LinkedIn"></a>
-  <a href="https://reddit.com/user/Fancy-Heart9848"><img src="assets/contact/reddit.svg" height="36" alt="Reddit"></a>
-  <a href="mailto:asthanpatanao29@gmail.com"><img src="assets/contact/email.svg" height="36" alt="Email"></a>
-  <a href="https://facebook.com/tangerinnee"><img src="assets/contact/facebook.svg" height="36" alt="Facebook"></a>
-  <a href="https://instagram.com/tan_gerineee_"><img src="assets/contact/instagram.svg" height="36" alt="Instagram"></a>
-</p>
