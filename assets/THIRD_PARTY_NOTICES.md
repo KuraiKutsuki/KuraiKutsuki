@@ -78,7 +78,7 @@ SOFTWARE.
 
 Simple Icons, CC0 1.0 (https://github.com/simple-icons/simple-icons). All brand logos are trademarks of their respective owners.
 
-Used: simple-icons@13.21.0; logo paths in assets/tech/{leaflet,packettracer,claude,codex,gemini,obsidian}.svg and assets/contact/*.svg.
+Used: simple-icons@13.21.0; logo paths in assets/tech/{leaflet,packettracer,claude,codex,gemini,obsidian,svg}.svg and assets/contact/*.svg.
 
 ## Vendor logos
 

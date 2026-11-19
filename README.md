@@ -28,14 +28,16 @@ Right now I build for the web, but networking is where I'm headed. I'm collectin
       <p align="center"><img src="assets/projects/merkadogo.svg" width="72" alt="MerkadoGo logo"></p>
       <b>MerkadoGo</b><br>
       Indoor market map and A* wayfinding for 231 stalls of the Ligao City Public Market, with multilingual search (English, Tagalog, Central Bicolano). My part: map design, data model and routing algorithm.<br>
-      <i>Vite · JavaScript · SVG · Firebase</i><br>
+      <br><b>Built with</b><br>
+      <table><tr><td align="center"><img src="assets/tech/vite.svg" width="32" alt="Vite"><br><sub>Vite</sub></td><td align="center"><img src="assets/tech/javascript.svg" width="32" alt="JavaScript"><br><sub>JavaScript</sub></td><td align="center"><img src="assets/tech/svg.svg" width="32" alt="SVG"><br><sub>SVG</sub></td><td align="center"><img src="assets/tech/firebase.svg" width="32" alt="Firebase"><br><sub>Firebase</sub></td></tr></table>
       <a href="https://merkadogo-web.vercel.app">Live demo</a> · <a href="https://github.com/KuraiKutsuki/MerkadoGo-WebApp">Repo</a>
     </td>
     <td width="50%" valign="top">
       <p align="center"><img src="assets/projects/bayanilink.svg" width="72" alt="BayaniLink logo"></p>
       <b>BayaniLink</b><br>
       My solo build of the community-reporting concept from my hackathon teams, extended with my own features: real-time emergency reports for Ligao City's CDRRMO, a live Leaflet map, and a Gemini-powered emergency assistant.<br>
-      <i>Next.js · Supabase · TypeScript</i><br>
+      <br><b>Built with</b><br>
+      <table><tr><td align="center"><img src="assets/tech/nextjs.svg" width="32" alt="Next.js"><br><sub>Next.js</sub></td><td align="center"><img src="assets/tech/supabase.svg" width="32" alt="Supabase"><br><sub>Supabase</sub></td><td align="center"><img src="assets/tech/typescript.svg" width="32" alt="TypeScript"><br><sub>TypeScript</sub></td></tr></table>
       <a href="https://bayani-link.vercel.app/">Live demo</a> · <a href="https://github.com/KuraiKutsuki/BayaniLink">Repo</a>
     </td>
   </tr>
